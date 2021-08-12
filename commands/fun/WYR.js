@@ -1,11 +1,10 @@
-//Wyr code to test
 
 // would you rather Module
 module.exports = {
     // Name of Command
-    name: 'WYR',
+    name: 'wyr',
     // Description of Command
-    description: 'WYR!',
+    description: 'wyr!',
     // Guild - TRUE
     guildOnly: true,
     // Cooldown
