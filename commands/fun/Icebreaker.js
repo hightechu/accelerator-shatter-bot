@@ -9,20 +9,13 @@ module.exports = {
     name: 'shatter',
     // Description of Command
     description: 'shatter!',
-    //how to use command properly
-   
-    // Arguments TRUE
-    args: true,
-    // Execute Command - Parameters: message args
-        
-    // Guild - TRUE
+    //guild-true
     guildOnly: true,
     // Cooldown
     cooldown: 2,
     // Execute Command - Parameters: message
-    execute(message, args) {
+    execute(message) {
        
-        const shatter = args;
             // rndmessage(message)
             random(message)
         
