@@ -22,6 +22,7 @@ module.exports = {
     // Execute Command - Parameters: message
     execute(message, args) {
        
+        const shatter = args;
             // rndmessage(message)
             random(message)
         
