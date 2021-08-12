@@ -1,6 +1,13 @@
 /* Custom CSS */
 
 /* Header */
+ body {
+    font-family: system-ui;
+    background: #d6ecef;
+    color: #FFFFFF;
+    text-align: center;
+        }
+
 header {
   padding: 0 0.25rem;
 }
