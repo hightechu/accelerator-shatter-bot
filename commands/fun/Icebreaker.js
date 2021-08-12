@@ -21,8 +21,6 @@ module.exports = {
     cooldown: 2,
     // Execute Command - Parameters: message
     execute(message, args) {
-        //Construct URL
-        const ToD = args;
        
             // rndmessage(message)
             random(message)
