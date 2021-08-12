@@ -1,28 +1,32 @@
-// icebreaker Module
+function random(message){
+    var messages = ['What’s the best trip (traveling wise) you ever had?', 'What is your favorite icecream', 'What would you do if you had 17 billion dollars'];
+    var rnd = Math.floor(Math.random() * messages.length);
+
+    message.channel.send(messages[rnd]);
+}
 module.exports = {
     // Name of Command
-    name: 'icebreaker',
+    name: 'shatter',
     // Description of Command
-    description: 'Icebreaker!',
+    description: 'shatter!',
+    //how to use command properly
+   
+    // Arguments TRUE
+    args: true,
+    // Execute Command - Parameters: message args
+        
     // Guild - TRUE
     guildOnly: true,
     // Cooldown
-    cooldown: 50,
+    cooldown: 2,
     // Execute Command - Parameters: message
-    execute(message) {
-        // Send Message
-        rndmessage(message);
+    execute(message, args) {
+        //Construct URL
+        const ToD = args;
+       
+            // rndmessage(message)
+            random(message)
+        
 
-        switch(arges[0]) {
-            case 'rnd':
-                rndmessage(message);
-
-                function rndmessage(message) {
-                    var messages = ['h', 'wow', 'insane', 'hello']
-                    var rnd = Math.floor(Math,random() * messages.length);
-
-                    message.channel.send(messages[rnd]);
-                }
-        }
-    }
-}
+   } 
+  }
