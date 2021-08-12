@@ -1,7 +1,7 @@
 // Hi Module
 module.exports = {
     // Name of Command
-    name: 'Hi',
+    name: 'hi',
     // Description of Command
     description: 'hi!',
     // Guild - TRUE
