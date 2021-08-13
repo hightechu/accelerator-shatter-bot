@@ -1,5 +1,5 @@
 function random(message){
-    var messages = require('../Icebreaker.json')
+    var messages = require('../fun/Icebreaker.json')
     var rnd = Math.floor(Math.random() * messages.length);
 
     message.channel.send(messages[rnd]);
