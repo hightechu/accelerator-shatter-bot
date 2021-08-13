@@ -1,6 +1,12 @@
 /* Custom CSS */
 
 /* Header */
+ body {
+    font-family: system-ui;
+    background: #d6ecef;
+    color: #151515;
+        }
+
 header {
   padding: 0 0.25rem;
 }

@@ -1,16 +1,16 @@
-// Hi Module
+// sus Module
 module.exports = {
     // Name of Command
-    name: 'hi',
+    name: 'sus',
     // Description of Command
-    description: 'hi!',
+    description: 'sus',
     // Guild - TRUE
     guildOnly: true,
     // Cooldown
-    cooldown: 50,
+    cooldown: 2,
     // Execute Command - Parameters: message
     execute(message) {
         // Send Message
-        message.channel.send('sup!');
+        message.channel.send('sus');
     },
 };
