@@ -5,6 +5,8 @@
     font-family: system-ui;
     background: #d6ecef;
     color: #151515;
+    max-width: 500px;
+    margin: auto;
         }
 
 header {
