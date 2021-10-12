@@ -1,4 +1,4 @@
-![Shatter Bot](https://user-images.githubusercontent.com/26526271/137036028-ca96ecac-3c7d-44c1-93e0-86c6f0c04b13.png))
+![Shatter Bot](https://user-images.githubusercontent.com/26526271/137036028-ca96ecac-3c7d-44c1-93e0-86c6f0c04b13.png)
 
 ## About
 
