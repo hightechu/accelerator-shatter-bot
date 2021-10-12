@@ -1,64 +1,23 @@
-![HighTechU Discord Bot](./docs/images/hightechu-discord-bot-banner.png)
-<!-- You will want to modify the image above to reflect your Discord Bot Branding. -->
+![Shatter Bot](https://user-images.githubusercontent.com/26526271/137036028-ca96ecac-3c7d-44c1-93e0-86c6f0c04b13.png))
 
 ## About
 
-<!-- You will want to modify the text below to include your Discord Bot About. -->
-<!-- You will want to modify the documentation link to reflect your Discord Bot Website. -->
+The Shatter Bot will break the ice and keep the dicord server alive. We offer a variety of games from Icebreaker, Truth or Dare, and Would You Rather. Updates come out monthly with new game modes and upgrading our existing games. Premium subscriptions offer even more games with different features like music bot. Upgrade your bot to get all the best features. Get Shatter Bot today and play games with new friends. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Posuere lorem ipsum dolor sit. Quis varius quam quisque id diam vel quam elementum pulvinar. Rhoncus dolor purus non enim praesent elementum facilisis leo. Accumsan lacus vel facilisis volutpat est velit egestas dui. For more information about the commands visit the "[documentation](https://hightechu.ca)".
+For more information about the commands visit the "[documentation](https://hightechu.github.io/accelerator-shatter-bot/)".
 
 ## Screenshots
 
-<!-- You will want to modify the demo screenshot below to reflect your Discord Bot Usage. -->
-
-![Bot Command Demo](./docs/images/demo.png)
+![Bot Command Demo](https://user-images.githubusercontent.com/26526271/137040444-bdc62466-41ba-4844-9c27-aa9ae9c1d008.png)
 
 ## Technologies
 
 The HighTechU Discord Bot uses the following technologies: Discord.js, Node.js, Firebase, Heroku, Bootstrap, and GitHub Pages.
-
-## Getting Started
-
-To get started with the project visit the [`getting started`](GETTING_STARTED.md) documentation. The document outlines how to get a copy running locally/publicly and how to setup the discord bot.
-
-## Contributing
-
-Contributions are always welcome!
-
-See [`CONTRIBUTING`](.github/CONTRIBUTING.md) for ways to get started.
-
-Please adhere to this project's [`code of conduct`](CODE_OF_CONDUCT.md).
-
-## Documentation
-
-To get started with the projects website visit the [`getting started website`](GETTING_STARTED_WEBSITE.md) documentation. The document outlines how to get started with your projects website and how to deploy with GitHub Pages.
-
-<!-- You will want to modify the documentation link to reflect your Discord Bot Website -->
-
-[Documentation](https://hightechu.ca)
-
-## Useful Links
-
-* [Discord Developer Portal](https://discord.com/developers/applications)
-* [Discord Permissions Calculate](https://discordapi.com/permissions.html)
-* [Firebase Console](https://console.firebase.google.com)
-* [Heroku](https://www.heroku.com/)
-
-## Learning Resources
-
-* [Discord.js Documentation and Guide](https://discordjs.guide/)
-* [Discord Documentation](https://discord.com/developers/docs/intro)
-* [Firebase Web Setup](https://firebase.google.com/docs/web/setup)
-* [Firebase Documentation](https://firebase.google.com/docs/build)
-* [Heroku Documentation](https://devcenter.heroku.com/categories/reference)
 
 ## License
 
 The project uses the [MIT LICENSE](https://choosealicense.com/licenses/mit/).
 
 ## Authors
-
-<!-- You will want modify the authors list below to include all contributing team members. -->
 
 - [@hightechu](https://github.com/hightechu)
