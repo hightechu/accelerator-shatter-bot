@@ -6,6 +6,8 @@ The Shatter Bot will break the ice and keep the dicord server alive. We offer a 
 
 For more information about the commands visit the "[documentation](https://hightechu.github.io/accelerator-shatter-bot/)".
 
+### [View the Shatter Bot Pitch Deck](https://github.com/hightechu/accelerator-shatter-bot/blob/main/docs/images/Shatter-Bot-Pitch-Deck.pdf)
+
 ## Screenshots
 
 ![Bot Command Demo](https://user-images.githubusercontent.com/26526271/137040444-bdc62466-41ba-4844-9c27-aa9ae9c1d008.png)
