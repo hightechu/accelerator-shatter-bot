@@ -6,8 +6,8 @@ The Shatter Bot will break the ice and keep the dicord server alive. We offer a 
 
 For more information about the commands visit the "[documentation](https://hightechu.github.io/accelerator-shatter-bot/)".
 
-### [View the Shatter Bot Pitch Deck](https://github.com/hightechu/accelerator-shatter-bot/blob/main/docs/images/Shatter-Bot-Pitch-Deck.pdf)
-### [Add Shatter Bot to Your Server](https://hightechu.github.io/accelerator-shatter-bot/docs/)
+###  💻 [View the Shatter Bot Pitch Deck](https://github.com/hightechu/accelerator-shatter-bot/blob/main/docs/images/Shatter-Bot-Pitch-Deck.pdf)
+###  🤖 [Add Shatter Bot to Your Server](https://hightechu.github.io/accelerator-shatter-bot/docs/)
 
 ## Shatter Bot Screenshots
 
@@ -24,3 +24,6 @@ The project uses the [MIT LICENSE](https://choosealicense.com/licenses/mit/).
 ## Shatter Bot Authors
 
 - [@hightechu](https://github.com/hightechu)
+- [@jeffpezo](https://github.com/jeffpezo)
+- [@howoldup](https://github.com/howoldup)
+- [@ricaeron](https://github.com/Ricaeron)
